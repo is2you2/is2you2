@@ -9,9 +9,10 @@
 
 ## 운용 프로그램
 - Linux  
-[아치리눅스](https://archlinux.org/),
 [우분투](https://ubuntu.com/),
-[페도라](https://getfedora.org/)  
+[페도라](https://getfedora.org/),
+[만자로](https://manjaro.org/),
+[아치리눅스](https://archlinux.org/)  
 **2012년부터~**  
 현재 주 사용 OS가 Archlinux (gnome3-desktop)
 - 그래픽 코딩  
