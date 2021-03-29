@@ -44,6 +44,8 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 [Cura](https://ultimaker.com/software/ultimaker-cura),
 [Arduino](https://www.arduino.cc/),
 [Markdown](https://www.markdownguide.org/),
+[vscode](https://code.visualstudio.com/),
+[atom](https://atom.io/),
 [AWS (EC2 위주 사용)](https://aws.amazon.com/),
 Macintosh,
 [MacOS](https://www.apple.com/macos),
