@@ -38,6 +38,7 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 - 기타  
 [Armory3d](https://armory3d.org/),
 [p5js](https://p5js.org/),
+[PureData](https://puredata.info/),
 [Ionic3](https://ionicframework.com/),
 [FreeOffice](https://www.softmaker.com/),
 [Flutter](https://flutter.io/),
