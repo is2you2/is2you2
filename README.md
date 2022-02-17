@@ -50,4 +50,6 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 [AWS (EC2 위주 사용)](https://aws.amazon.com/),
 Macintosh,
 [MacOS](https://www.apple.com/macos),
-[Windows (MS-DOS, 95, 98, XP, Vista, 10)](https://www.microsoft.com/ko-kr/software-download/windows10)
+[Windows (MS-DOS, 95, 98, XP, Vista, 10)](https://www.microsoft.com/ko-kr/software-download/windows10),
+[qemu](https://www.qemu.org/),
+[termux](https://termux.com/)
