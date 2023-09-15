@@ -5,7 +5,8 @@
 반갑습니다. 최성수입니다.  
 디자인과 출신이지만 코딩을 겸하고 있습니다.
 
-오픈소스 프로그램을 지향합니다.
+오픈소스 프로그램을 지향합니다.  
+개인 프로젝트로 [Project: Cone](https://is2you2.github.io/pjcone_pwa/) 앱을 만들고 있습니다. 모쪼록 많은 관심 부탁드립니다★
 
 ## 운용 프로그램
 - Linux (2012년~)  
@@ -58,4 +59,7 @@ Macintosh,
 [qemu](https://www.qemu.org/),
 [docker, docker-compose](https://www.docker.com/),
 [wsl 2](https://docs.microsoft.com/en-us/windows/wsl/install),
-[exim4](https://www.exim.org/)
+[exim4](https://www.exim.org/),
+[Lua](http://www.lua.org/),
+[coturn](https://github.com/coturn/coturn),
+[WebRTC](https://webrtc.org/)
