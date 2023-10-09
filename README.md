@@ -13,8 +13,7 @@
 [Archlinux](https://archlinux.org/)  
 현재 주 사용 OS (gnome3-desktop)
 - 그래픽 코딩 (2009년~)  
-[Processing](https://processing.org/),
-[p5js](https://p5js.org/)  
+[p5js](https://p5js.org/)
 - 그래픽 작업 (2012년~)  
 [Blender](https://www.blender.org/),
 [Inkscape](https://inkscape.org/),
@@ -31,20 +30,18 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 [AWS](https://aws.amazon.com/),
 [Azure](https://azure.microsoft.com/ko-kr/)
 - 게임엔진 (2020년~)  
-[Godot Engine](https://godotengine.org/),
-[Unity3d](https://unity.com/)  
+[Godot Engine](https://godotengine.org/)
 - 게임서버 (2021년~)  
-[Nakama](https://heroiclabs.com/),
-[Photon Server](https://www.photonengine.com/en/server)  
+[Nakama](https://heroiclabs.com/)
 - HTML5 (2022년~)  
-[ionic 6](https://ionicframework.com/)  
+[ionic framework](https://ionicframework.com/)  
 - 기타  
 [Ubuntu](https://ubuntu.com/),
 [Fedora](https://getfedora.org/),
 [Manjaro](https://manjaro.org/),
+[Processing](https://processing.org/),
 [Armory3d](https://armory3d.org/),
 [PureData](https://puredata.info/),
-[Ionic3](https://ionicframework.com/),
 [FreeOffice](https://www.softmaker.com/),
 [Flutter](https://flutter.io/),
 [Cura](https://ultimaker.com/software/ultimaker-cura),
@@ -55,6 +52,8 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 Macintosh,
 [MacOS](https://www.apple.com/macos),
 [Windows (MS-DOS, 95, 98, XP, Vista, 10, 11)](https://www.microsoft.com/ko-kr/software-download/windows10),
+[Unity3d](https://unity.com/),
+[Photon Server](https://www.photonengine.com/en/server),
 [termux](https://termux.com/),
 [qemu](https://www.qemu.org/),
 [docker, docker-compose](https://www.docker.com/),
