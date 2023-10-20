@@ -26,9 +26,6 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 - 사운드 (간단한 작업용)  
 [LMMS](https://lmms.io/),
 [Audacity](https://www.audacityteam.org/)
-- 클라우드 서비스 (2019년~)  
-[AWS](https://aws.amazon.com/),
-[Azure](https://azure.microsoft.com/ko-kr/)
 - 게임엔진 (2020년~)  
 [Godot Engine](https://godotengine.org/)
 - 게임서버 (2021년~)  
@@ -46,6 +43,8 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 [Flutter](https://flutter.io/),
 [Cura](https://ultimaker.com/software/ultimaker-cura),
 [Arduino](https://www.arduino.cc/),
+[AWS](https://aws.amazon.com/),
+[Azure](https://azure.microsoft.com/ko-kr/),
 [Markdown](https://www.markdownguide.org/),
 [vscode](https://code.visualstudio.com/),
 [atom](https://atom.io/),
