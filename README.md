@@ -22,14 +22,11 @@
 약 1년에 거쳐 주 프로그램들을 이전  
 Adobe 시리즈: 2006 ~ 2012년까지 사용  
 (photoshop, illustrator, premiere, 당시 CS2 버전)
-- 사운드 (간단한 작업용)  
-[LMMS](https://lmms.io/),
-[Audacity](https://www.audacityteam.org/)
 - 게임엔진 (2020년~)  
 [Godot Engine](https://godotengine.org/)
 - 게임서버 (2021년~)  
 [Nakama](https://heroiclabs.com/)
-- HTML5 (2022년~)  
+- HTML5 (PWA) (2022년~)  
 [ionic framework](https://ionicframework.com/)  
 - 기타  
 [Ubuntu](https://ubuntu.com/),
@@ -59,4 +56,6 @@ Macintosh,
 [exim4](https://www.exim.org/),
 [Lua](http://www.lua.org/),
 [coturn](https://github.com/coturn/coturn),
-[WebRTC](https://webrtc.org/)
+[WebRTC](https://webrtc.org/),
+[LMMS](https://lmms.io/),
+[Audacity](https://www.audacityteam.org/)
