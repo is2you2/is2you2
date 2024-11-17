@@ -8,7 +8,7 @@
 오픈소스 프로그램을 지향합니다.
 
 ## 연락처
-[테스트 서버를 사용하여 연락시도하기](https://is2you2.github.io/pjcone_pwa/?open_prv_channel=56879697-530d-48df-b5a4-6aac321e55e0,,)
+[테스트 서버를 사용하여 연락시도하기](https://is2you2.github.io/pjcone_pwa/?server=https://pjcone.ddns.net:7350,,,,,&open_prv_channel=19304bb6-1558-4c3d-b1f7-735711278df4,https://pjcone.ddns.net:7350)
 
 ## 운용 프로그램
 - Linux (2012년~)  
