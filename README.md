@@ -32,7 +32,7 @@ Adobe 시리즈: 2006 ~ 2012년까지 사용
 [Ubuntu](https://ubuntu.com/),
 [Fedora](https://getfedora.org/),
 [Manjaro](https://manjaro.org/),
-[ArchLinux](https://archlinux.org/)
+[ArchLinux](https://archlinux.org/),
 [Processing](https://processing.org/),
 [Armory3d](https://armory3d.org/),
 [PureData](https://puredata.info/),
