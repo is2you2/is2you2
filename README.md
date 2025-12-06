@@ -9,7 +9,7 @@
 
 ## 운용 프로그램
 - Linux (2012년~)  
-[Archlinux](https://archlinux.org/)  
+[Nyarch linux](https://nyarchlinux.moe/)  
 현재 주 사용 OS (gnome3-desktop)
 - 그래픽 코딩 (2009년~)  
 [p5js](https://p5js.org/)
