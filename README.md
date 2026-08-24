@@ -9,10 +9,7 @@
 
 ## 운용 프로그램
 - Linux (2012년~)  
-[Nyarch linux](https://nyarchlinux.moe/)  
-현재 주 사용 OS (gnome3-desktop)
-- 그래픽 코딩 (2009년~)  
-[p5js](https://p5js.org/)
+현재 주 사용 OS ([Nyarch linux](https://nyarchlinux.moe/))
 - 그래픽 작업 (2012년~)  
 [Blender](https://www.blender.org/),
 [Inkscape](https://inkscape.org/),
@@ -22,12 +19,10 @@
 약 1년에 거쳐 주 프로그램들을 이전  
 Adobe 시리즈: 2006 ~ 2012년까지 사용  
 (photoshop, illustrator, premiere, 당시 CS2 버전)
-- 게임엔진 (2020년~)  
-[Godot Engine](https://godotengine.org/)
-- 게임서버 (2021년~)  
-[Nakama](https://heroiclabs.com/)
-- HTML5 (PWA) (2022년~)  
-[ionic framework](https://ionicframework.com/)  
+- HTML5 (PWA) (2026년~)  
+[Svelte](https://svelte.dev/)
+- 백엔드 (2026년~)  
+[SQLite](https://sqlite.org/index.html)
 - 기타  
 [Ubuntu](https://ubuntu.com/),
 [Fedora](https://getfedora.org/),
@@ -55,6 +50,10 @@ Macintosh,
 [docker, docker-compose](https://www.docker.com/),
 [wsl 2](https://docs.microsoft.com/en-us/windows/wsl/install),
 [exim4](https://www.exim.org/),
+[Godot Engine](https://godotengine.org/),
+[ionic framework](https://ionicframework.com/),
+[Nakama](https://heroiclabs.com/),
+[p5js](https://p5js.org/)
 [Lua](http://www.lua.org/),
 [coturn](https://github.com/coturn/coturn),
 [WebRTC](https://webrtc.org/),
